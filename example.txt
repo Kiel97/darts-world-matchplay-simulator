@@ -1,0 +1,79 @@
+Simulating World Matchplay 2137 ...
+Seeds:
+(#1) Enrica Overley
+(#2) Rayshell Serasio
+(#3) Ardyce Mizutani
+(#4) Kelsi Meuser
+(#5) Robinett Mammoccio
+(#6) Charlotte Storck
+(#7) Masha Ingrahm
+(#8) Rhona Beckey
+(#9) Francisca Nicklas
+(#10) Annora Leshem
+(#11) Meaghan Justiss
+(#12) Pearla Berdin
+(#13) Davida Agerter
+(#14) Barbara Wlosinski
+(#15) Jemmie Left
+(#16) Amy Bagdasarian
+
+Qualifiers:
+Fawn Tatge
+Lesly Shifflette
+Cherilynn Killean
+Malva Demario
+Keri Georgalas
+Robby Libre
+Regine Sturch
+Grete Mbonu
+Nataline Nemzek
+Dawna Mcconathy
+Matilde Gratton
+Kinna Betson
+Betsy Headley
+Dix Alberto
+Theodosia Polito
+Thomasin Camara
+
+First round results:
+(#1) Enrica Overley 8:10 Cherilynn Killean
+(#16) Amy Bagdasarian 8:10 Theodosia Polito
+(#8) Rhona Beckey 7:10 Thomasin Camara
+(#9) Francisca Nicklas 10:4 Malva Demario
+(#5) Robinett Mammoccio 10:9 Nataline Nemzek
+(#12) Pearla Berdin 10:8 Kinna Betson
+(#4) Kelsi Meuser 6:10 Dawna Mcconathy
+(#13) Davida Agerter 6:10 Keri Georgalas
+(#2) Rayshell Serasio 10:2 Robby Libre
+(#15) Jemmie Left 10:7 Matilde Gratton
+(#7) Masha Ingrahm 5:10 Dix Alberto
+(#10) Annora Leshem 10:3 Grete Mbonu
+(#6) Charlotte Storck 10:9 Fawn Tatge
+(#11) Meaghan Justiss 8:10 Lesly Shifflette
+(#3) Ardyce Mizutani 10:9 Regine Sturch
+(#14) Barbara Wlosinski 10:8 Betsy Headley
+
+Second round results:
+Cherilynn Killean 11:13 Theodosia Polito
+Thomasin Camara 11:13 (#9) Francisca Nicklas
+(#5) Robinett Mammoccio 13:9 (#12) Pearla Berdin
+Dawna Mcconathy 6:13 Keri Georgalas
+(#2) Rayshell Serasio 10:13 (#15) Jemmie Left
+Dix Alberto 5:13 (#10) Annora Leshem
+(#6) Charlotte Storck 5:13 Lesly Shifflette
+(#3) Ardyce Mizutani 13:9 (#14) Barbara Wlosinski
+
+Quarter finals results:
+Theodosia Polito 16:7 (#9) Francisca Nicklas
+(#5) Robinett Mammoccio 16:10 Keri Georgalas
+(#15) Jemmie Left 16:11 (#10) Annora Leshem
+Lesly Shifflette 14:16 (#3) Ardyce Mizutani
+
+Semi finals results:
+Theodosia Polito 17:15 (#5) Robinett Mammoccio
+(#15) Jemmie Left 17:9 (#3) Ardyce Mizutani
+
+Final results:
+Theodosia Polito 18:17 (#15) Jemmie Left
+
+Theodosia Polito wins World Matchplay 2137! Congratulations!
