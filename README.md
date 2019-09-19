@@ -1,4 +1,4 @@
-# Darts Wworld Matchplay Simulator
+# Darts World Matchplay Simulator
 Simple 1KO Tournament simulator prototype made with Python 3.6.8
 
 This prototype is an imitation of PDC World Matchplay tournament.
