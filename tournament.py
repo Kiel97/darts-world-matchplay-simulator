@@ -10,7 +10,7 @@ class Tournament():
         self.gen = PlayerGenerator()
         self.MATCH_LENGTH = (10, 13, 16, 17, 18)
         self.SEEDS_PRIORITY = (1, 16, 8, 9, 5, 12, 4, 13, 2, 15, 7, 10, 6,
-                               11, 3, 14)
+                               11, 3, 14)       # TODO: Replace with seeding algorithm
         self.year = year
 
     def simulate(self):
