@@ -20,13 +20,13 @@ class Tournament():
         print(f"Simulating World Matchplay {self.year} ...")
 
         self.get_players(self.players)
-        self.present_players()
+        self.present_competitors()
 
         shuffle(self.qualifiers)
 
-        self.bracket["1st round"] = self.draw_matches()
+        self.bracket["1st round"] = self.draw_1st_round_matches()
         self.second_round = self.simulate_round(self.bracket["1st round"], self.MATCH_LENGTH[1])
-        #self.first_round = self.draw_matches()
+        #self.first_round = self.draw_1st_round_matches()
         #self.second_round = self.simulate_round(self.first_round, self.MATCH_LENGTH[1])
         self.quarter_finals = self.simulate_round(self.second_round, self.MATCH_LENGTH[2])
         self.semi_finals = self.simulate_round(self.quarter_finals, self.MATCH_LENGTH[3])
@@ -45,7 +45,7 @@ class Tournament():
         self.seeds = self.gen.generate_players(players//2, seed=True)
         self.qualifiers = self.gen.generate_players(players//2)
 
-    def present_players(self):
+    def present_competitors(self):
         print("Seeds:")
         for player in self.seeds:
             print(player)
@@ -54,7 +54,7 @@ class Tournament():
             print(player)
         print("")
     
-    def draw_matches(self):
+    def draw_1st_round_matches(self):
         draws = []
 
         q = self.qualifiers[:]
