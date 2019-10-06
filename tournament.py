@@ -1,4 +1,5 @@
 from random import choice, shuffle
+from math import log2
 
 from match import Match
 from player_generator import PlayerGenerator
@@ -13,6 +14,7 @@ class Tournament():
         self.MATCH_LENGTH = (10, 13, 16, 17, 18)
         self.SEEDS_PRIORITY = (1, 16, 8, 9, 5, 12, 4, 13, 2, 15, 7, 10, 6,
                                11, 3, 14)       # TODO: Replace with seeding algorithm
+        self.ROUNDS_NAMES = ("Final", "Semi Finals", "Quarter Finals", "Round ")
         self.year = year
         self.players = players
 
@@ -23,6 +25,8 @@ class Tournament():
         self.present_competitors()
 
         shuffle(self.qualifiers)
+
+        self.prepare_bracket()
 
         self.bracket["1st Round"] = self.draw_1st_round_matches()
         self.bracket["2nd Round"] = self.simulate_round(self.bracket["1st Round"], self.MATCH_LENGTH[1])
@@ -51,6 +55,15 @@ class Tournament():
             print(player)
         print("")
     
+    def prepare_bracket(self):
+        self.rounds_amount = int(log2(self.players))
+        for i in range(self.rounds_amount):
+            if i <= 2:
+                round_name = self.ROUNDS_NAMES[i]
+            else:
+                round_name = self.ROUNDS_NAMES[3] + str(self.rounds_amount - i)
+            self.bracket[round_name] = None
+
     def draw_1st_round_matches(self):
         draws = []
 
