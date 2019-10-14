@@ -1,79 +1,79 @@
 Simulating World Matchplay 2137 ...
 Seeds:
-(#1) Enrica Overley
-(#2) Rayshell Serasio
-(#3) Ardyce Mizutani
-(#4) Kelsi Meuser
-(#5) Robinett Mammoccio
-(#6) Charlotte Storck
-(#7) Masha Ingrahm
-(#8) Rhona Beckey
-(#9) Francisca Nicklas
-(#10) Annora Leshem
-(#11) Meaghan Justiss
-(#12) Pearla Berdin
-(#13) Davida Agerter
-(#14) Barbara Wlosinski
-(#15) Jemmie Left
-(#16) Amy Bagdasarian
+(#1) Peg Romar
+(#2) Herta Surface
+(#3) Ulrike Camero
+(#4) Nerta Zech
+(#5) Louella Stotsky
+(#6) Ainsley Vanderhoef
+(#7) Kippie Poche
+(#8) Jacki Degollado
+(#9) Vanna Shempert
+(#10) Jeannie Boulger
+(#11) Harley Panakos
+(#12) Philippe Stielau
+(#13) Bethena Luter
+(#14) Ermentrude Finnigan
+(#15) Isahella Obryant
+(#16) Nesta Murrock
 
 Qualifiers:
-Fawn Tatge
-Lesly Shifflette
-Cherilynn Killean
-Malva Demario
-Keri Georgalas
-Robby Libre
-Regine Sturch
-Grete Mbonu
-Nataline Nemzek
-Dawna Mcconathy
-Matilde Gratton
-Kinna Betson
-Betsy Headley
-Dix Alberto
-Theodosia Polito
-Thomasin Camara
+Marris Chirasello
+Berty Montoro
+Willetta Harvilchuck
+Shelli Boria
+Delilah Jaecks
+Nonie Deshaies
+Aimil Protz
+Avivah Carrion
+Bessy Hews
+Tabina Kitching
+Vanya Hogeland
+Janina Moltrie
+Wilie Brakke
+Lelah Ferran
+Rahel Hohlfeld
+Nancey Gancio
 
-First round results:
-(#1) Enrica Overley 8:10 Cherilynn Killean
-(#16) Amy Bagdasarian 8:10 Theodosia Polito
-(#8) Rhona Beckey 7:10 Thomasin Camara
-(#9) Francisca Nicklas 10:4 Malva Demario
-(#5) Robinett Mammoccio 10:9 Nataline Nemzek
-(#12) Pearla Berdin 10:8 Kinna Betson
-(#4) Kelsi Meuser 6:10 Dawna Mcconathy
-(#13) Davida Agerter 6:10 Keri Georgalas
-(#2) Rayshell Serasio 10:2 Robby Libre
-(#15) Jemmie Left 10:7 Matilde Gratton
-(#7) Masha Ingrahm 5:10 Dix Alberto
-(#10) Annora Leshem 10:3 Grete Mbonu
-(#6) Charlotte Storck 10:9 Fawn Tatge
-(#11) Meaghan Justiss 8:10 Lesly Shifflette
-(#3) Ardyce Mizutani 10:9 Regine Sturch
-(#14) Barbara Wlosinski 10:8 Betsy Headley
+Round 1 results:
+(#1) Peg Romar 3:10 Marris Chirasello
+(#16) Nesta Murrock 10:8 Bessy Hews
+(#8) Jacki Degollado 1:10 Vanya Hogeland
+(#9) Vanna Shempert 7:10 Shelli Boria
+(#4) Nerta Zech 5:10 Tabina Kitching
+(#13) Bethena Luter 10:6 Nonie Deshaies
+(#5) Louella Stotsky 7:10 Nancey Gancio
+(#12) Philippe Stielau 10:6 Willetta Harvilchuck
+(#2) Herta Surface 3:10 Wilie Brakke
+(#15) Isahella Obryant 7:10 Avivah Carrion
+(#7) Kippie Poche 6:10 Janina Moltrie
+(#10) Jeannie Boulger 1:10 Rahel Hohlfeld
+(#3) Ulrike Camero 7:10 Berty Montoro
+(#14) Ermentrude Finnigan 10:5 Lelah Ferran
+(#6) Ainsley Vanderhoef 5:10 Aimil Protz
+(#11) Harley Panakos 10:5 Delilah Jaecks
 
-Second round results:
-Cherilynn Killean 11:13 Theodosia Polito
-Thomasin Camara 11:13 (#9) Francisca Nicklas
-(#5) Robinett Mammoccio 13:9 (#12) Pearla Berdin
-Dawna Mcconathy 6:13 Keri Georgalas
-(#2) Rayshell Serasio 10:13 (#15) Jemmie Left
-Dix Alberto 5:13 (#10) Annora Leshem
-(#6) Charlotte Storck 5:13 Lesly Shifflette
-(#3) Ardyce Mizutani 13:9 (#14) Barbara Wlosinski
+Round 2 results:
+Marris Chirasello 12:13 (#16) Nesta Murrock
+Vanya Hogeland 13:8 Shelli Boria
+Tabina Kitching 13:11 (#13) Bethena Luter
+Nancey Gancio 13:3 (#12) Philippe Stielau
+Wilie Brakke 9:13 Avivah Carrion
+Janina Moltrie 13:12 Rahel Hohlfeld
+Berty Montoro 7:13 (#14) Ermentrude Finnigan
+Aimil Protz 13:12 (#11) Harley Panakos
 
-Quarter finals results:
-Theodosia Polito 16:7 (#9) Francisca Nicklas
-(#5) Robinett Mammoccio 16:10 Keri Georgalas
-(#15) Jemmie Left 16:11 (#10) Annora Leshem
-Lesly Shifflette 14:16 (#3) Ardyce Mizutani
+Quarter Finals results:
+(#16) Nesta Murrock 13:16 Vanya Hogeland
+Tabina Kitching 16:10 Nancey Gancio
+Avivah Carrion 14:16 Janina Moltrie
+(#14) Ermentrude Finnigan 10:16 Aimil Protz
 
-Semi finals results:
-Theodosia Polito 17:15 (#5) Robinett Mammoccio
-(#15) Jemmie Left 17:9 (#3) Ardyce Mizutani
+Semi Finals results:
+Vanya Hogeland 12:17 Tabina Kitching
+Janina Moltrie 15:17 Aimil Protz
 
 Final results:
-Theodosia Polito 18:17 (#15) Jemmie Left
+Tabina Kitching 18:14 Aimil Protz
 
-Theodosia Polito wins World Matchplay 2137! Congratulations!
+Tabina Kitching wins World Matchplay 2137! Congratulations!
