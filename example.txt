@@ -1,79 +1,79 @@
 Simulating World Matchplay 2137 ...
 Seeds:
-(#1) Fina Tyce
-(#2) Dela Hayzlett
-(#3) Rosemarie Buress
-(#4) Van Struckman
-(#5) Tansy Maceyak
-(#6) Vivienne Spirko
-(#7) Mommy Odonal
-(#8) Inna Shular
-(#9) Lynelle Wilbert
-(#10) Bonnee Schachter
-(#11) Laurena Alles
-(#12) Vinnie Markis
-(#13) Bertie Rafiq
-(#14) Lil Rumble
-(#15) Aura Mantegna
-(#16) Tess Caporiccio
+(#1) Peg Romar
+(#2) Herta Surface
+(#3) Ulrike Camero
+(#4) Nerta Zech
+(#5) Louella Stotsky
+(#6) Ainsley Vanderhoef
+(#7) Kippie Poche
+(#8) Jacki Degollado
+(#9) Vanna Shempert
+(#10) Jeannie Boulger
+(#11) Harley Panakos
+(#12) Philippe Stielau
+(#13) Bethena Luter
+(#14) Ermentrude Finnigan
+(#15) Isahella Obryant
+(#16) Nesta Murrock
 
 Qualifiers:
-Amabelle Lagomarsino
-Farra Liranzo
-Samara Redden
-Bobbette Karras
-Shara Pianalto
-Cherise Rendel
-Mellisent Mcelmurry
-Silvana Eidschun
-Valentine Lafleche
-Alexine Hajdukiewicz
-Kimberli Gaba
-Misti Madho
-Arlen Pruitt
-Brande Cuthbert
-Hilda Tice
-Georgette Fronek
+Marris Chirasello
+Berty Montoro
+Willetta Harvilchuck
+Shelli Boria
+Delilah Jaecks
+Nonie Deshaies
+Aimil Protz
+Avivah Carrion
+Bessy Hews
+Tabina Kitching
+Vanya Hogeland
+Janina Moltrie
+Wilie Brakke
+Lelah Ferran
+Rahel Hohlfeld
+Nancey Gancio
 
-First round results:
-(#1) Fina Tyce 7:10 Alexine Hajdukiewicz
-(#16) Tess Caporiccio 9:10 Brande Cuthbert
-(#8) Inna Shular 6:10 Bobbette Karras
-(#9) Lynelle Wilbert 4:10 Samara Redden
-(#4) Van Struckman 2:10 Valentine Lafleche
-(#13) Bertie Rafiq 6:10 Farra Liranzo
-(#5) Tansy Maceyak 10:7 Hilda Tice
-(#12) Vinnie Markis 3:10 Misti Madho
-(#2) Dela Hayzlett 4:10 Mellisent Mcelmurry
-(#15) Aura Mantegna 8:10 Arlen Pruitt
-(#7) Mommy Odonal 2:10 Cherise Rendel
-(#10) Bonnee Schachter 6:10 Amabelle Lagomarsino
-(#3) Rosemarie Buress 10:5 Kimberli Gaba
-(#14) Lil Rumble 4:10 Shara Pianalto
-(#6) Vivienne Spirko 6:10 Georgette Fronek
-(#11) Laurena Alles 3:10 Silvana Eidschun
+Round 1 results:
+(#1) Peg Romar 3:10 Marris Chirasello
+(#16) Nesta Murrock 10:8 Bessy Hews
+(#8) Jacki Degollado 1:10 Vanya Hogeland
+(#9) Vanna Shempert 7:10 Shelli Boria
+(#4) Nerta Zech 5:10 Tabina Kitching
+(#13) Bethena Luter 10:6 Nonie Deshaies
+(#5) Louella Stotsky 7:10 Nancey Gancio
+(#12) Philippe Stielau 10:6 Willetta Harvilchuck
+(#2) Herta Surface 3:10 Wilie Brakke
+(#15) Isahella Obryant 7:10 Avivah Carrion
+(#7) Kippie Poche 6:10 Janina Moltrie
+(#10) Jeannie Boulger 1:10 Rahel Hohlfeld
+(#3) Ulrike Camero 7:10 Berty Montoro
+(#14) Ermentrude Finnigan 10:5 Lelah Ferran
+(#6) Ainsley Vanderhoef 5:10 Aimil Protz
+(#11) Harley Panakos 10:5 Delilah Jaecks
 
-Second round results:
-Alexine Hajdukiewicz 13:11 Brande Cuthbert
-Bobbette Karras 11:13 Samara Redden
-Valentine Lafleche 13:8 Farra Liranzo
-(#5) Tansy Maceyak 13:12 Misti Madho
-Mellisent Mcelmurry 13:10 Arlen Pruitt
-Cherise Rendel 11:13 Amabelle Lagomarsino
-(#3) Rosemarie Buress 12:13 Shara Pianalto
-Georgette Fronek 13:12 Silvana Eidschun
+Round 2 results:
+Marris Chirasello 12:13 (#16) Nesta Murrock
+Vanya Hogeland 13:8 Shelli Boria
+Tabina Kitching 13:11 (#13) Bethena Luter
+Nancey Gancio 13:3 (#12) Philippe Stielau
+Wilie Brakke 9:13 Avivah Carrion
+Janina Moltrie 13:12 Rahel Hohlfeld
+Berty Montoro 7:13 (#14) Ermentrude Finnigan
+Aimil Protz 13:12 (#11) Harley Panakos
 
-Quarter finals results:
-Alexine Hajdukiewicz 16:11 Samara Redden
-Valentine Lafleche 16:15 (#5) Tansy Maceyak
-Mellisent Mcelmurry 9:16 Amabelle Lagomarsino
-Shara Pianalto 9:16 Georgette Fronek
+Quarter Finals results:
+(#16) Nesta Murrock 13:16 Vanya Hogeland
+Tabina Kitching 16:10 Nancey Gancio
+Avivah Carrion 14:16 Janina Moltrie
+(#14) Ermentrude Finnigan 10:16 Aimil Protz
 
-Semi finals results:
-Alexine Hajdukiewicz 17:13 Valentine Lafleche
-Amabelle Lagomarsino 17:12 Georgette Fronek
+Semi Finals results:
+Vanya Hogeland 12:17 Tabina Kitching
+Janina Moltrie 15:17 Aimil Protz
 
 Final results:
-Alexine Hajdukiewicz 18:12 Amabelle Lagomarsino
+Tabina Kitching 18:14 Aimil Protz
 
-Alexine Hajdukiewicz wins World Matchplay 2137! Congratulations!
+Tabina Kitching wins World Matchplay 2137! Congratulations!
