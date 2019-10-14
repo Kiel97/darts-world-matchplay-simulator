@@ -13,7 +13,7 @@ class Tournament():
         self.gen = PlayerGenerator()
         self.MATCH_LENGTH = (10, 13, 16, 17, 18)
         self.SEEDS_PRIORITY = tuple(Seed.generate(players//2))
-        self.ROUNDS_NAMES = ("Final", "Semi Finals", "Quarter Finals", "Round ")
+        self.ROUNDS_NAMES = ("Winner", "Final", "Semi Finals", "Quarter Finals", "Round ")
         self.year = year
         self.players = players
 
@@ -26,14 +26,14 @@ class Tournament():
         shuffle(self.qualifiers)
 
         self.rounds = self.get_round_names()
-        print(self.rounds)
-
-        self.bracket["Round 1"] = self.draw_1st_round_matches()
-        self.bracket["Round 2"] = self.simulate_round(self.bracket["Round 1"], self.MATCH_LENGTH[1])
-        self.bracket["Quarter Finals"] = self.simulate_round(self.bracket["Round 2"], self.MATCH_LENGTH[2])
-        self.bracket["Semi Finals"] = self.simulate_round(self.bracket["Quarter Finals"], self.MATCH_LENGTH[3])
-        self.bracket["Final"] = self.simulate_round(self.bracket["Semi Finals"], self.MATCH_LENGTH[4])
-        self.bracket["Winner"] = self.simulate_round(self.bracket["Final"], self.MATCH_LENGTH[4])
+        
+        for i in range(len(self.rounds)):
+            if i == 0:
+                self.bracket[self.rounds[i]] = self.draw_1st_round_matches()
+            else:
+                self.bracket[self.rounds[i]] = self.simulate_round(
+                        self.bracket[self.rounds[i-1]],
+                        self.MATCH_LENGTH[min(i, len(self.MATCH_LENGTH)-1)])
 
         self.show_round_results(self.bracket["Round 1"])
         self.show_round_results(self.bracket["Round 2"], "Second round")
@@ -56,13 +56,14 @@ class Tournament():
         print("")
     
     def get_round_names(self):
-        self.rounds_amount = int(log2(self.players))
+        self.rounds_amount = int(log2(self.players))+1
         rounds_names = []
         for i in range(self.rounds_amount):
-            if i <= 2:
+            if i < len(self.ROUNDS_NAMES)-1:
                 rounds_names.append(self.ROUNDS_NAMES[i])
             else:
-                rounds_names.append(self.ROUNDS_NAMES[3] + str(self.rounds_amount - i))
+                rounds_names.append(self.ROUNDS_NAMES[len(self.ROUNDS_NAMES)-1]
+                        + str(self.rounds_amount-i))
         rounds_names.reverse()
         return rounds_names
 
