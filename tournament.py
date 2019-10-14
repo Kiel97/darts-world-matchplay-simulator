@@ -35,12 +35,12 @@ class Tournament():
                         self.bracket[self.rounds[i-1]],
                         self.MATCH_LENGTH[min(i, len(self.MATCH_LENGTH)-1)])
 
-        self.show_round_results(self.bracket["Round 1"])
-        self.show_round_results(self.bracket["Round 2"], "Second round")
-        self.show_round_results(self.bracket["Quarter Finals"], "Quarter finals")
-        self.show_round_results(self.bracket["Semi Finals"], "Semi finals")
-        self.show_round_results(self.bracket["Final"], "Final")
-        print(f"{self.bracket['Winner']} wins World Matchplay {self.year}! Congratulations!")
+        for round in self.bracket:
+            if round == self.ROUNDS_NAMES[0]:
+                print(f"{self.bracket[round]} wins World Matchplay {self.year}! Congratulations!")
+            else:
+                self.show_round_results(self.bracket[round], round)
+
 
     def get_players(self, players=32):
         self.seeds = self.gen.generate_players(players//2, seed=True)
