@@ -25,9 +25,7 @@ class Tournament():
 
         shuffle(self.qualifiers)
 
-        self.prepare_bracket()
-
-        self.rounds = [x for x in self.bracket.keys()]
+        self.rounds = self.get_round_names()
         print(self.rounds)
 
         self.bracket["Round 1"] = self.draw_1st_round_matches()
@@ -57,14 +55,16 @@ class Tournament():
             print(player)
         print("")
     
-    def prepare_bracket(self):
+    def get_round_names(self):
         self.rounds_amount = int(log2(self.players))
+        rounds_names = []
         for i in range(self.rounds_amount):
             if i <= 2:
-                round_name = self.ROUNDS_NAMES[i]
+                rounds_names.append(self.ROUNDS_NAMES[i])
             else:
-                round_name = self.ROUNDS_NAMES[3] + str(self.rounds_amount - i)
-            self.bracket[round_name] = None
+                rounds_names.append(self.ROUNDS_NAMES[3] + str(self.rounds_amount - i))
+        rounds_names.reverse()
+        return rounds_names
 
     def draw_1st_round_matches(self):
         draws = []
