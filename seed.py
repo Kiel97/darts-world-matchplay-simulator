@@ -2,7 +2,7 @@ from math import log2, ceil
 
 class Seed:
 
-    def generate(self, players=16):
+    def generate(players=16):
         iters = ceil(log2(players))
         seeds = [1]
         for i in range(iters):

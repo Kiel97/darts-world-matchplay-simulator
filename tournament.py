@@ -12,7 +12,7 @@ class Tournament():
     def __init__(self, players=32, year=2137):
         self.gen = PlayerGenerator()
         self.MATCH_LENGTH = (10, 13, 16, 17, 18)
-        self.SEEDS_PRIORITY = Seed.generate(None, players//2)
+        self.SEEDS_PRIORITY = tuple(Seed.generate(players//2))
         self.ROUNDS_NAMES = ("Final", "Semi Finals", "Quarter Finals", "Round ")
         self.year = year
         self.players = players
