@@ -27,15 +27,18 @@ class Tournament():
 
         self.prepare_bracket()
 
-        self.bracket["1st Round"] = self.draw_1st_round_matches()
-        self.bracket["2nd Round"] = self.simulate_round(self.bracket["1st Round"], self.MATCH_LENGTH[1])
-        self.bracket["Quarter Finals"] = self.simulate_round(self.bracket["2nd Round"], self.MATCH_LENGTH[2])
+        self.rounds = [x for x in self.bracket.keys()]
+        print(self.rounds)
+
+        self.bracket["Round 1"] = self.draw_1st_round_matches()
+        self.bracket["Round 2"] = self.simulate_round(self.bracket["Round 1"], self.MATCH_LENGTH[1])
+        self.bracket["Quarter Finals"] = self.simulate_round(self.bracket["Round 2"], self.MATCH_LENGTH[2])
         self.bracket["Semi Finals"] = self.simulate_round(self.bracket["Quarter Finals"], self.MATCH_LENGTH[3])
         self.bracket["Final"] = self.simulate_round(self.bracket["Semi Finals"], self.MATCH_LENGTH[4])
         self.bracket["Winner"] = self.simulate_round(self.bracket["Final"], self.MATCH_LENGTH[4])
 
-        self.show_round_results(self.bracket["1st Round"])
-        self.show_round_results(self.bracket["2nd Round"], "Second round")
+        self.show_round_results(self.bracket["Round 1"])
+        self.show_round_results(self.bracket["Round 2"], "Second round")
         self.show_round_results(self.bracket["Quarter Finals"], "Quarter finals")
         self.show_round_results(self.bracket["Semi Finals"], "Semi finals")
         self.show_round_results(self.bracket["Final"], "Final")
