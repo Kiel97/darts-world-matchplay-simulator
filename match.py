@@ -1,5 +1,6 @@
 from random import random
 
+from player import Player
 
 class Match():
     def __init__(self, player1, player2, legs_to_win):
@@ -29,8 +30,6 @@ class Match():
             self.winner = self.player2
 
     def simulate(self):
-        while not self.has_winner():
+        while not isinstance(self.winner, Player):
             self._play_leg()
-
-    def has_winner(self):
         return self.winner

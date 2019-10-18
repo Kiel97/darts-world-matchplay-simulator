@@ -85,8 +85,7 @@ class Tournament():
         next_round = []
 
         for match in current_round:
-            match.simulate()
-            winner = match.has_winner()
+            winner = match.simulate()
             winners.append(winner)
 
         if len(winners) >= 2:
