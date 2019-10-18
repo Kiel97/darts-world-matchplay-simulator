@@ -8,4 +8,5 @@ To reach quarter final players have to win 13 legs in round two, semi final - 16
 Check out `example.txt` to see example output of this tournament.
 
 # How to simulate tournament?
-Download it and then run main.py with Python 3+ like `python3 main.py`. You can also pass desired year with --year argument, like `python main.py --year 2020`.
+Download it and then run main.py with Python 3+ like `python3 main.py`. You can also pass desired year with --year argument, like `python3 main.py --year 2020`. Or pass --players to choose amount of players competing. Powers of 2 are working fine excluding 1.
+`python3 main.py --year 2020 --players 128`
